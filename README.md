@@ -1,3 +1,18 @@
+
+```mermaid
+gitGraph
+  commit
+  commit
+  branch develop
+  checkout develop
+  commit
+  commit
+  checkout main
+  merge develop
+```
+
+
+
 # Textwash
 
 **UPDATE: Textwash is now available for Dutch! See below for details of how you can run the Dutch anonymization model.**
